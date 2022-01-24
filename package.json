@@ -1,0 +1,22 @@
+{
+  "name": "league-cli",
+  "version": "1.0.0",
+  "description": "webpack-based tooling for Vue.js and League-ui Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yingjieweb/league-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "yingjieweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingjieweb/league-cli/issues"
+  },
+  "homepage": "https://github.com/yingjieweb/league-cli#readme"
+}
